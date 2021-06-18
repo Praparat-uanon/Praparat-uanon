@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praparat-uanon
 - 👀 I’m interested in HTML,CSS, JAVASCRIPT...
 - 🌱 I’m currently learning to be a frontend dev.
-- 💞️ I’m looking to collaborate on projects about frontend.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me : praparat.uanon@gmail.com
 
 <!---
